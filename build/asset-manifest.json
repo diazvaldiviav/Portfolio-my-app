@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.5cf0222d.css",
+    "main.js": "/Portafolio/static/js/main.939a52d0.js",
+    "static/media/GCS.png": "/Portafolio/static/media/GCS.cd41477445b6acf0196d.png",
+    "static/media/batata.png": "/Portafolio/static/media/batata.588d6def2397d2d0ea4e.png",
+    "static/media/logo.jpg": "/Portafolio/static/media/logo.9a8ac1a6a5eb0e976320.jpg",
+    "static/media/inventory.png": "/Portafolio/static/media/inventory.2eeb585c8f65785fd25e.png",
+    "static/media/phone-handset_icon-icons.com_48252.png": "/Portafolio/static/media/phone-handset_icon-icons.com_48252.f0396a50361fe9454e57.png",
+    "static/media/github-logo_icon-icons.com_73546.png": "/Portafolio/static/media/github-logo_icon-icons.com_73546.8e2a9e7d53fa4340a09e.png",
+    "static/media/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png": "/Portafolio/static/media/4202011emailgmaillogomailsocialsocialmedia-115677_115624.0ff8c06a6baf11146cb1.png",
+    "index.html": "/Portafolio/index.html",
+    "main.5cf0222d.css.map": "/Portafolio/static/css/main.5cf0222d.css.map",
+    "main.939a52d0.js.map": "/Portafolio/static/js/main.939a52d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf0222d.css",
+    "static/js/main.939a52d0.js"
+  ]
+}
